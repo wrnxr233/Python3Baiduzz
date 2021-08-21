@@ -1,4 +1,4 @@
-目前仅有普通收录功能（因为我没快速收录权限无法测试 ::(滑稽) ）
+目前仅有普通收录功能（因为我没快速收录权限无法测(手动滑稽)）
 
 使用方法：
 1.新建一个txt文件,命名为url.txt
@@ -10,6 +10,6 @@
 
 本程序无任何后门，源代码已经公开至Github
 
-{cloud title="Github链接" type="github" url="https://github.com/wrnxr233/Python3Baiduzz" password=""/}
+Github链接：https://github.com/wrnxr233/Python3Baiduzz
 
-程序下载地址（已经打包成.exe形式）：
+程序已经打包成EXE，请到Releases下载
