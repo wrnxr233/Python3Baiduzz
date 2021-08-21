@@ -11,6 +11,6 @@
 本程序无任何后门，源代码已经公开至Github
 
 Github链接：https://github.com/wrnxr233/Python3Baiduzz
-<br>本程序由https://www.wrnxr.cc发布，欢迎来访！
+<br>本程序由https://www.wrnxr.cc/ 发布，欢迎来访！
 
 程序已经打包成EXE，请到Releases下载
