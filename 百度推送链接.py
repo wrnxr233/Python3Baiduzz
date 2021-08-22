@@ -1,11 +1,28 @@
 import requests
 import json
-
+import sys
 '''
 作者：www.wrnxr.cc
 '''
 
-print('欢迎访问www.wrnxr.cc，更多资源等着您')
+print('欢迎访问www.wrnxr.cc，更多资源等着您\n')
+
+
+print('正在检测url.txt是否存在...')
+
+try:
+    f =open('url.txt')
+    f.close()
+    print('已检测到url.txt')
+except FileNotFoundError:
+    print ("未找到url.txt,请在当前目录创建")
+    input('按enter退出')
+    sys.exit()
+except PermissionError:
+    print ("没有权限读取url.txt,请检查权限设置")
+    input('按enter退出')
+    sys.exit()
+
 
 url='http://data.zz.baidu.com/urls?'
 headers={'Content-Type':'text/plain'}
