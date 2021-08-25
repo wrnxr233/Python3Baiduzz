@@ -1,5 +1,14 @@
 目前仅有普通收录功能（因为我没快速收录权限无法测(手动滑稽)）
 
+不玩了github老是被阻断，项目已迁移至gitee
+https://gitee.com/wrnxr233/python-submission-url
+
+不玩了github老是被阻断，项目已迁移至gitee
+https://gitee.com/wrnxr233/python-submission-url
+
+不玩了github老是被阻断，项目已迁移至gitee
+https://gitee.com/wrnxr233/python-submission-url
+
 使用方法：
 1.新建一个txt文件,命名为url.txt<br>
 2.复制或剪切url.txt到与本程序相同的目录<br>
